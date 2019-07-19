@@ -1,0 +1,18 @@
+$  ll
+$  git init
+$ git status 
+$  git add 文件名
+$  git commit -m "one upd"
+$ git config --global user.name 'liuhao'
+$  git config -l
+$ git log
+$ git commit -m "wanlging" aa.txt
+$ git config --global user.email 'liuhao'
+$ git config -l
+$ git remote -v
+	（origin  https://github.com/zhangzewen0803/zhang.git (fetch)
+	   origin  https://github.com/zhangzewen0803/zhang.git (push)）
+$ git remote add origin https://github.com/liuhao157/one.git  
+$  git push -u origin master
+$ history
+$ git clone https://github.com/zhangzewen0803/zhang.git     //克隆
